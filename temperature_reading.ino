@@ -7,6 +7,7 @@
 
 #define DHTPIN 4 //data pin is connected to d2 on ESP
 #define DHTTYPE DHT11//name the sensor as an object(dht11 sensor is beign used)'
+//just a commit
 
 
 
